@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_bookshelf"
+        android:icon="@drawable/ic_bookshelf"
+        android:title="@string/bookshelf" />
+
+    <item
+        android:id="@+id/action_discovery"
+        android:icon="@drawable/ic_discovery"
+        android:title="@string/discovery" />
+    <item
+        android:id="@+id/action_bookmark"
+        android:icon="@drawable/ic_bookmark"
+        android:title="@string/bookmark" />
+    <item
+        android:id="@+id/action_my"
+        android:icon="@drawable/ic_person"
+        android:title="@string/my" />
+</menu>
